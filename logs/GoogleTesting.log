@@ -1,0 +1,5 @@
+[INFO ] 2020-04-16 11:20:18.233 [main] Demo2 - information
+[FATAL] 2020-04-16 11:20:18.263 [main] Demo2 - fatal
+[ERROR] 2020-04-16 11:20:18.263 [main] Demo2 - error
+[WARN ] 2020-04-16 11:20:18.263 [main] Demo2 - warn
+[TRACE] 2020-04-16 11:20:18.268 [main] Demo2 - hello trace

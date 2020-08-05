@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56312" started-at="2020-04-17T04:50:16Z" finished-at="2020-04-17T04:51:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56312" started-at="2020-04-17T04:50:16Z" finished-at="2020-04-17T04:51:12Z">
+      <class name="ScreenRecorder_using_monte_API.Tesctcase1">
+        <test-method status="PASS" signature="Login_01()[pri:0, instance:ScreenRecorder_using_monte_API.Tesctcase1@3abbfa04]" name="Login_01" duration-ms="55915" started-at="2020-04-17T10:20:16Z" finished-at="2020-04-17T10:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_01 -->
+      </class> <!-- ScreenRecorder_using_monte_API.Tesctcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
